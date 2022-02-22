@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_add_shoppingcart"
+        android:title="加入购物车"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/menu_favorite"
+        android:title="收藏"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/menu_back"
+        android:title="返回上一页"
+        app:showAsAction="collapseActionView" />
+
+
+</menu>

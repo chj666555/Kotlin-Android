@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.xiaohaibin:XBanner:1.6.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d6b0eca0bf04dae85cb9e702cc70e18b/jetified-XBanner-1.6.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7c3314f360499e6200559e77f9ecdd3/jetified-XBanner-1.6.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d6b0eca0bf04dae85cb9e702cc70e18b/jetified-XBanner-1.6.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d6b0eca0bf04dae85cb9e702cc70e18b/jetified-XBanner-1.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d6b0eca0bf04dae85cb9e702cc70e18b/jetified-XBanner-1.6.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7c3314f360499e6200559e77f9ecdd3/jetified-XBanner-1.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7c3314f360499e6200559e77f9ecdd3/jetified-XBanner-1.6.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7c3314f360499e6200559e77f9ecdd3/jetified-XBanner-1.6.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.xiaohaibin/XBanner/1.6.1/707fc9a5ff2ea1234cb3101b7d4661694fe07717/XBanner-1.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.xiaohaibin/XBanner/1.6.1/46e77020a74a7a0e1c3a0e9b02455c73558a8fb3/XBanner-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

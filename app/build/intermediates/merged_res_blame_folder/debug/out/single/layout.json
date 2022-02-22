@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\shoppingcart_item.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\shoppingcart_item.xml"
+    },
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_item_detail.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\activity_item_detail.xml"
+    },
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_index.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\fragment_index.xml"
+    },
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\comment_item.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\comment_item.xml"
+    },
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_first.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_list.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_cart.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "D:\\Android project\\AndroidMallKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\index_item.xml",
+        "source": "D:\\Android project\\AndroidMallKotlin\\app\\src\\main\\res\\layout\\index_item.xml"
+    }
+]
