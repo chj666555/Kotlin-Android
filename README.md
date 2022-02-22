@@ -34,3 +34,5 @@
 ### 2.2 共享参数存储
     使用SharedPreferences实现了记住密码功能，将登录成功的用户，以json形式存储到SharedPreferences中。
     下次程序启动后，检测如果SharedPreferences中有用户信息，会将信息读取，自动登录。
+### 2.3 E-R图
+    ![Image text](https://github.com/chaosx233/Kotlin-Android/blob/master/img/E-R.png)
